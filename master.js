@@ -1,7 +1,7 @@
 var k = 0,
     PI = Math.PI,
     mag = 300,
-    c = "#ffbf00",
+    c = "#ff5252",
     lw = 2,
     delta = 0.001;
 
